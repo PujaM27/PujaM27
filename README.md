@@ -1,7 +1,18 @@
-# Hi, I am Puja! 👋
-Here is a hello dance! Enjoy
+# 🌼Hi, I'm Puja!
 
-<img src="https://pujam27.github.io/3D-Model-Viewer/" alt="Happy" />
+- 🚀 **Eng/Engineer** 
+- 🌱 **Exploring, learning, and building** 
+- 📬 **You can contact me through email - [pujamazumdar27@gmail.com](mailto:pujamazumdar27@gmail.com)** 
+
+## Check out this fun GIF!
+![danceAstro](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJ4OWJkbmhheW5naG13dWh0emsxNjlyMjRzemZkdnRweGkzODkxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lNLPKnfJU5YWz1pO0v/giphy.gif)
+
+![Excited GIF](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)
+
+## Social Handles
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Instagram](https://instagram.com/yourprofile)
+- [Twitter](https://twitter.com/yourprofile)
 
 ---
 
@@ -9,9 +20,6 @@ Here is a hello dance! Enjoy
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pujamazumdar/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_puja_m27_/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/__sweetooth_)
-
-![Profile Views](https://komarev.com/ghpvc/?username=PujaM27&label=Profile%20views&color=0e75b6&style=flat)
-
 ---
 
 ### 🛠️ Tech Toolbox
