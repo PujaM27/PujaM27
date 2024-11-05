@@ -1,20 +1,22 @@
 # 🌼Hi, I'm Puja!
 
+<div style="display: flex; align-items: center;">
+
+ <div>
+   
 - 🚀 **Eng/Engineer** 
 - 🌱 **Exploring, learning, and building** 
 - 📬 **You can contact me through email - [pujamazumdar27@gmail.com](mailto:pujamazumdar27@gmail.com)** 
 
-## Check out this fun GIF!
-![danceAstro](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJ4OWJkbmhheW5naG13dWh0emsxNjlyMjRzemZkdnRweGkzODkxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lNLPKnfJU5YWz1pO0v/giphy.gif)
+<div>
 
-![Excited GIF](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)
+<div style="margin-left: auto;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJ4OWJkbmhheW5naG13dWh0emsxNjlyMjRzemZkdnRweGkzODkxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lNLPKnfJU5YWz1pO0v/giphy.gif)
+" alt="Excited GIF" width="150" height="150">
+</div>
 
-## Social Handles
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Instagram](https://instagram.com/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
+</div>
 
----
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pujamazumdar/)
