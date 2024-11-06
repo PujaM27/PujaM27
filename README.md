@@ -1,7 +1,5 @@
 # 🌼Hi, I'm Puja!
 
-# Hi, I am Puja
-
 <table>
   <tr>
     <td>
@@ -12,7 +10,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJ4OWJkbmhheW5naG13dWh0emsxNjlyMjRzemZkdnRweGkzODkxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lNLPKnfJU5YWz1pO0v/giphy.gif" width="200px" alt="Excited GIF" />
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJ4OWJkbmhheW5naG13dWh0emsxNjlyMjRzemZkdnRweGkzODkxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lNLPKnfJU5YWz1pO0v/giphy.gif" width="235px" alt="Excited GIF" />
     </td>
   </tr>
 </table>
