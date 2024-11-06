@@ -1,13 +1,22 @@
 # 🌼Hi, I'm Puja!
 
-<p align="left">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJ4OWJkbmhheW5naG13dWh0emsxNjlyMjRzemZkdnRweGkzODkxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lNLPKnfJU5YWz1pO0v/giphy.gif" width="150px" alt="Excited GIF" style="float: left; margin-right: 20px;" />
-</p>
+# Hi, I am Puja
 
-- 🚀 **Eng/Engineer**
-- 🌱 **Exploring, learning, and building**
-- 📬 **You can contact me through email - [pujamazumdar27@gmail.com](mailto:pujamazumdar27@gmail.com)**
-  
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🚀 <strong>Eng/Engineer</strong></li>
+        <li>🌱 <strong>Exploring, learning, and building</strong></li>
+        <li>📬 <strong>You can contact me through email - <a href="mailto:pujamazumdar27@gmail.com">pujamazumdar27@gmail.com</a></strong></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJ4OWJkbmhheW5naG13dWh0emsxNjlyMjRzemZkdnRweGkzODkxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lNLPKnfJU5YWz1pO0v/giphy.gif" width="200px" alt="Excited GIF" />
+    </td>
+  </tr>
+</table>
+
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pujamazumdar/)
