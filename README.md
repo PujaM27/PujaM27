@@ -1,20 +1,10 @@
 # 🌼Hi, I'm Puja!
 
-<div style="display: flex; align-items: center;">
-
- <div>
-   
-- 🚀 **Eng/Engineer** 
-- 🌱 **Exploring, learning, and building** 
-- 📬 **You can contact me through email - [pujamazumdar27@gmail.com](mailto:pujamazumdar27@gmail.com)** 
-
-<div>
-
-<div style="margin-left: auto;">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJ4OWJkbmhheW5naG13dWh0emsxNjlyMjRzemZkdnRweGkzODkxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lNLPKnfJU5YWz1pO0v/giphy.gif") " alt="A Hello Dance" width="150" height="150">
-</div>
-
-</div>
+| ![✨](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJ4OWJkbmhheW5naG13dWh0emsxNjlyMjRzemZkdnRweGkzODkxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lNLPKnfJU5YWz1pO0v/giphy.gif) |  
+|:-------------------------------------------------------:|  
+| 🚀 **Eng/Engineer**  |  
+| 🌱 **Exploring, learning, and building** |  
+| 📬 **You can contact me through email - [pujamazumdar27@gmail.com](mailto:pujamazumdar27@gmail.com)** |
 
 
 ### 🌐 Connect with me:
