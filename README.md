@@ -1,10 +1,11 @@
 # 🌼Hi, I'm Puja!
 
-| ![✨](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJ4OWJkbmhheW5naG13dWh0emsxNjlyMjRzemZkdnRweGkzODkxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lNLPKnfJU5YWz1pO0v/giphy.gif) |  
+| ![Excited GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJ4OWJkbmhheW5naG13dWh0emsxNjlyMjRzemZkdnRweGkzODkxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lNLPKnfJU5YWz1pO0v/giphy.gif) |  
 |:-------------------------------------------------------:|  
 | 🚀 **Eng/Engineer**  |  
 | 🌱 **Exploring, learning, and building** |  
 | 📬 **You can contact me through email - [pujamazumdar27@gmail.com](mailto:pujamazumdar27@gmail.com)** |
+
 
 
 ### 🌐 Connect with me:
