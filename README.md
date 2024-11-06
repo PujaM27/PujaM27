@@ -7,7 +7,7 @@
         <li>🚀 <strong>Eng/Engineer</strong></li>
         <li>🌱 <strong>Exploring, learning, and building</strong></li>
         <li>📬 <strong>You can contact me through email - <a href="mailto:pujamazumdar27@gmail.com">pujamazumdar27@gmail.com</a></strong></li>
-        <li>👀 <strong>Profile Views: ![Profile views](https://komarev.com/ghpvc/?username=PujaM27)</strong></li>
+        <li>👀 <strong>Profile Views: </strong> ![Profile views](https://komarev.com/ghpvc/?username=PujaM27)</li>
       </ul>
     </td>
     <td>
