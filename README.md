@@ -3,16 +3,18 @@
 <table>
   <tr>
     <td>
-      <ul style="list-style-type: none; padding: 0;">
-        <li style="font-size: 1.2em; font-weight: bold; color: #4A90E2;">🚀 Eng/Engineer</li>
-        <li style="font-size: 1.2em; font-weight: bold; color: #4A90E2;">🌱 Exploring, learning, and building</li>
-        <li style="font-size: 1.2em; font-weight: bold; color: #4A90E2;">📬 You can contact me through email - <a href="mailto:pujamazumdar27@gmail.com" style="color: #FF6347;">pujamazumdar27@gmail.com</a></li>
+      <ul>
+        <li><span style="font-size: 18px; font-family: Arial, sans-serif;">🚀 <strong>Eng/Engineer</strong></span></li>
+        <li><span style="font-size: 18px; font-family: Arial, sans-serif;">🌱 <strong>Exploring, learning, and building</strong></span></li>
+        <li><span style="font-size: 18px; font-family: Arial, sans-serif;">📬 <strong>You can contact me through email - <a href="mailto:pujamazumdar27@gmail.com">pujamazumdar27@gmail.com</a></strong></span></li>
       </ul>
     </td>
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJ4OWJkbmhheW5naG13dWh0emsxNjlyMjRzemZkdnRweGkzODkxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lNLPKnfJU5YWz1pO0v/giphy.gif"/> width="235px" alt="Excited GIF" />
+    <td>
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJ4OWJkbmhheW5naG13dWh0emsxNjlyMjRzemZkdnRweGkzODkxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lNLPKnfJU5YWz1pO0v/giphy.gif" width="250px" alt="Excited GIF" />
     </td>
   </tr>
 </table>
+
 
 
 ### 🌐 Connect with me:
