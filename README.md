@@ -4,6 +4,7 @@
   <tr>
     <td>
       <ul>
+         <li><span style="font-size: 18px; font-family: Arial, sans-serif;">👁️ <strong>Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=PujaM27&label=Profile%20views&color=0e75b6&style=flat)</strong></span></li>
         <li><span style="font-size: 18px; font-family: Arial, sans-serif;">🚀 <strong>Eng/Engineer</strong></span></li>
         <li><span style="font-size: 18px; font-family: Arial, sans-serif;">🌱 <strong>Exploring, learning, and building</strong></span></li>
         <li><span style="font-size: 18px; font-family: Arial, sans-serif;">📬 <strong>You can contact me through email - <a href="mailto:pujamazumdar27@gmail.com">pujamazumdar27@gmail.com</a></strong></span></li>
